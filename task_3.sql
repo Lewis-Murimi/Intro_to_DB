@@ -1,1 +1,5 @@
+-- USE THE DATABASE
+USE alx_book_store;
+
+-- LIST THE TABLES
 SHOW TABLES;
